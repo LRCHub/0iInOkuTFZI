@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Save you Save me",
+  "base_artist": "衛藤可奈美（CV：本渡 楓）、十条姫和（CV：大西沙織）、柳瀬舞衣（CV：和氣あず未）、糸見沙耶香（CV：木野日菜）、益子 薫（CV：松田利冴）、古波蔵エレン（CV：鈴木絵理）",
+  "createdAt": "2025-12-23T04:44:38.126132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Save you Save me -衛藤可奈美ソロver.-",
+      "artist": "衛藤可奈美(本渡楓)",
+      "has_synced": true,
+      "path": "select/01_Save_you_Save_me_-衛藤可奈美ソロver.-_衛藤可奈美(本渡楓).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Save you Save me - 衛藤可奈美ソロver.",
+      "artist": "衛藤可奈美(CV:本渡楓)",
+      "has_synced": true,
+      "path": "select/02_Save_you_Save_me_-_衛藤可奈美ソロver._衛藤可奈美(CV_本渡楓).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Save you Save me",
+      "artist": "衛藤可奈美(CV.本渡楓)、十条姫和(CV.大西沙織)、柳瀬舞衣(CV.和氣あず未)、糸見沙耶香(CV.木野日菜)、益子薫(CV.松田利冴)、古波蔵エレン(CV.鈴木絵理)",
+      "has_synced": true,
+      "path": "select/03_Save_you_Save_me_衛藤可奈美(CV.本渡楓)、十条姫和(CV.大西沙織)、柳瀬舞衣(CV.和氣あず未)、糸見沙耶香(CV.木野日菜)、益子薫(CV.松田利冴)、古波蔵エレン(CV.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Save you Save me",
+      "artist": "衛藤可奈美(CV:本渡 楓)、十条姫和(CV:大西沙織)、柳瀬舞衣(CV:和氣あず未)、糸見沙耶香(CV:木野日菜)、益子 薫(CV:松田利冴)、古波蔵エレン(CV:鈴木絵理)",
+      "has_synced": true,
+      "path": "select/04_Save_you_Save_me_衛藤可奈美(CV_本渡_楓)、十条姫和(CV_大西沙織)、柳瀬舞衣(CV_和氣あず未)、糸見沙耶香(CV_木野日菜)、益子_薫(CV_松田利冴)、古波蔵エレン(.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Save you Save me",
+      "artist": "衛藤可奈美(CV:本渡楓)、十条姫和(CV:大西沙織)、柳瀬舞衣(CV:和氣あず未)、糸見沙耶香(CV:木野日菜)、益子薫(CV:松田利冴)、古波蔵エレン(CV:鈴木絵理)",
+      "has_synced": false,
+      "path": "select/pl_01_Save_you_Save_me_衛藤可奈美(CV_本渡楓)、十条姫和(CV_大西沙織)、柳瀬舞衣(CV_和氣あず未)、糸見沙耶香(CV_木野日菜)、益子薫(CV_松田利冴)、古波蔵エレン(CV.txt"
+    }
+  ]
+}
